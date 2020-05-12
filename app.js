@@ -58,7 +58,7 @@ let Wheat = () => (
 ReactDOM.render(<GroceryList />, document.getElementById('app') ); */
 
 /***********************************
-Create and render a React component
+Component Properties aka "props"
 ***********************************/
 
 /* let GroceryList = () => (
